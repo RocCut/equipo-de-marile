@@ -1,0 +1,12 @@
+EQUIPO DE MARILÉ — SITIO PARA NETLIFY DROP
+
+1. Descomprimí el ZIP.
+2. Entrá a la carpeta barefoot_emprendimiento.
+3. Arrastrá index.html y la carpeta assets juntas a Netlify Drop, o arrastrá la carpeta completa si la interfaz lo permite.
+4. Revisá el sitio publicado desde el celular y la computadora.
+
+Incluye seis capturas compartidas por la usuaria en una galería responsive.
+Antes de publicar, revisá que las capturas no expongan datos personales y que tengas permiso para difundirlas.
+El contenido sobre el programa resume el material aportado y no verifica de forma independiente la legitimidad o vigencia de sus condiciones.
+
+Incluye una sección nueva «Conocé a nuestro equipo» con la foto grupal aportada y un botón de contacto por WhatsApp.
